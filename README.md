@@ -28,7 +28,7 @@ number = "{
 ```
 number = "{
     parts: [
-        'invoice>ExTendedPrice',
+        'invoice>ExtendedPrice',
         'myView>/currency'
     ],
     type: 'sap.ui.model.type.Currency',
@@ -51,7 +51,7 @@ Step 4: Go to the Binding Infos tab on the right, and scroll down, we can actual
 
 Step 5: We found issue now check the spelling and correct it and try re-running the app.
 
-All the steps are shown below with screenshots and also a video link for same is here: 
+All the steps are shown below with screenshots and also a video link for same is here: ["How To Debug"](https://github.com/VaibhavMojidra/SAP-UI5---Demo-Basic-UI-Typo-Error-Debugging-Using-SAPUI5-Diagnostics-Tools/raw/master/How%20to%20debug%20-%20Video/HowToDebug.mp4 "How To Debug")
 
 ---
 
